@@ -122,7 +122,7 @@ Freelancer dashboard: projects, clients, finances and investments in one place. 
 
 ## 🛠️ Stack
 
-<img align="right" width="170" src="https://i.pinimg.com/736x/03/10/5e/03105eafcc7594bb3bbf8640d188038b.jpg" />
+<img align="right" width="320" src="https://i.pinimg.com/736x/03/10/5e/03105eafcc7594bb3bbf8640d188038b.jpg" />
 
 **Languages**<br>
 <img height="44" src="https://skillicons.dev/icons?i=py,ts,js" />
