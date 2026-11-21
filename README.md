@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" />
-
 # Mohamed Sillah
 
 ### Junior Backend Developer · Python · TypeScript · PostgreSQL
@@ -36,7 +34,7 @@ I care about clean architecture, tests, and systems that keep working after laun
 
 ## 🚀 Featured work
 
-### Clutch Store
+### Clutch Store 🪙
 
 <img width="100%" src="./assets/clutch-store-banner.png" />
 
@@ -55,7 +53,7 @@ A Discord store for the PALOP countries with a web dashboard to run it: catalog,
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
 
-### Clutch Control
+### Clutch Control 🎚️
 
 <img width="100%" src="./assets/clutch-control-banner.png" />
 
@@ -73,7 +71,7 @@ Wallet and matchmaking platform for esports organizations. Players hold a balanc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
 
-### Finance Bot
+### Finance Bot 💸
 
 <img width="100%" src="./assets/finance-bot-banner.png" />
 
@@ -91,7 +89,7 @@ Personal finance assistant on Telegram. Users log and manage money by chatting i
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
 
-### School Website + CMS
+### School Website + CMS 📚
 
 <img width="100%" src="./assets/etjv-banner.png" />
 
@@ -104,19 +102,6 @@ Institutional website for a public technical school in Cape Verde, with a CMS so
 [![Live](https://img.shields.io/badge/Live_site-F4F4F1?style=flat-square&logo=render&logoColor=black)](https://etjv.onrender.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
-
-### DevFlow
-![public](https://img.shields.io/badge/repo-public-2EA44F?style=flat-square) ![web+desktop](https://img.shields.io/badge/platform-web_+_desktop-3ECF8E?style=flat-square)
-
-Freelancer dashboard: projects, clients, finances and investments in one place. A React web app and a PyQt6 desktop client share one Supabase backend.
-
-**What it does**
-- Supabase Auth with an email allowlist and **Row Level Security on every table**
-- Versioned SQL migrations and Zod validation
-
-**Stack** &nbsp;`React 19` `TypeScript` `Vite` `PyQt6` `Supabase`
-
-[![Repo](https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github)](https://github.com/mohamedsillahhh-cloud/DevFlow)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
 
