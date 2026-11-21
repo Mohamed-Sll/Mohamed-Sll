@@ -152,7 +152,7 @@ Freelancer dashboard: projects, clients, finances and investments in one place. 
 <img height="44" src="./assets/icons/biome.svg" />
 
 **Currently learning**<br>
-<img height="44" src="https://skillicons.dev/icons?i=kotlin" />
+<img height="44" src="https://skillicons.dev/icons?i=kotlin,java,gradle" /> &nbsp; Kotlin · JVM · Gradle
 
 <br clear="right"/>
 
