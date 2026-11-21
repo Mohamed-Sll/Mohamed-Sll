@@ -18,11 +18,11 @@
 
 <img align="right" width="170" src="https://i.pinimg.com/736x/d4/10/ac/d410acd9734cb0715cfa969de285ba14.jpg" />
 
-Self-taught developer who builds **end to end**, from database schema to deployment.
+* Self-taught developer who builds **end to end**, from database schema to deployment.
 
-Most of what I ship handles **real money or real users**: wallets, payments review, finance tools and school platforms.
+* Most of what I ship handles **real money or real users**: wallets, payments review, finance tools and school platforms.
 
-I care about clean architecture, tests, and systems that keep working after launch.
+* I care about clean architecture, tests, and systems that keep working after launch.
 
 > **📍 Based in** Cape Verde 🇨🇻
 > **🎯 Focus** Backend engineering, fintech
