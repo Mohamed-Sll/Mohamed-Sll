@@ -145,12 +145,7 @@ Institutional website for a public technical school in Cape Verde, with a CMS so
 
 ## 📊 Activity
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.shion.dev/api?username=mohamedsillahhh-cloud&theme=transparent&hide_border=true&count_private=true&show_icons=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedsillahhh-cloud&theme=transparent&hide_border=true&layout=compact&hide_title=true" />
-
-</div>
+<div align="center"><img width="100%" src="./assets/metrics.svg" /></div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
 
