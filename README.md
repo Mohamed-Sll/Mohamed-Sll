@@ -122,7 +122,7 @@ Freelancer dashboard: projects, clients, finances and investments in one place. 
 
 ## 🛠️ Stack
 
-<img align="right" width="170" src="https://i.pinimg.com/736x/1f/28/ed/1f28ed565650b82ef74e0e432002c201.jpg" />
+<img align="right" width="170" src="https://i.pinimg.com/736x/03/10/5e/03105eafcc7594bb3bbf8640d188038b.jpg" />
 
 **Languages**<br>
 <img height="44" src="https://skillicons.dev/icons?i=py,ts,js" />
@@ -152,7 +152,7 @@ Freelancer dashboard: projects, clients, finances and investments in one place. 
 <img height="44" src="./assets/icons/biome.svg" />
 
 **Currently learning**<br>
-<img height="44" src="https://skillicons.dev/icons?i=kotlin,java,gradle" /> &nbsp;
+<img height="44" src="https://skillicons.dev/icons?i=kotlin,java,gradle" /> &nbsp; Kotlin · JVM · Gradle
 
 <br clear="right"/>
 
