@@ -1,14 +1,12 @@
 <div align="center">
 
-# Mohamed Sillah
-
-### Junior Backend Developer · Python · TypeScript · PostgreSQL
+<img width="100%" src="./assets/profile-banner.png" />
 
 *Building payment-adjacent systems for real users in Cape Verde and the PALOP countries.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sllh)
 [![Email](https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsillahhh@gmail.com)
-![Open to work](https://img.shields.io/badge/Open_to_backend_roles-2EA44F?style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open_to_Full--Stack_roles-2EA44F?style=for-the-badge)
 
 </div>
 
@@ -18,17 +16,17 @@
 
 <img align="right" width="170" src="https://i.pinimg.com/736x/d4/10/ac/d410acd9734cb0715cfa969de285ba14.jpg" />
 
-* Self-taught developer who builds **end to end**, from database schema to deployment.
+* Full-Stack developer, backend-focused, who builds **end to end**, from database schema to deployment.
 
 * Most of what I ship handles **real money or real users**: wallets, payments review, finance tools and school platforms.
 
 * I care about clean architecture, tests, and systems that keep working after launch.
 
-    **📍 Based in** Cape Verde 🇨🇻
+    **📍 Based in** Mindelo, São Vicente · Cape Verde 🇨🇻
 
-    **🎯 Focus** Backend engineering, fintech
+    **🎯 Focus** Full-Stack, backend-heavy · fintech
 
-    **💼 Open to** Backend roles in Cape Verde and Europe (remote or relocation)
+    **💼 Open to** Full-Stack roles in Cape Verde and Europe (remote or relocation)
 
 <br clear="right"/>
 
@@ -153,7 +151,7 @@ Institutional website for a public technical school in Cape Verde, with a CMS so
 
 <div align="center">
 
-**Open to backend engineering opportunities in Cape Verde and Europe.**
+**Open to Full-Stack opportunities in Cape Verde and Europe.**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sllh)
 
