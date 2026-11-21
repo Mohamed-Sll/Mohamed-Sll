@@ -74,6 +74,9 @@ Wallet and matchmaking platform for esports organizations. Players hold a balanc
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
 
 ### Finance Bot
+
+<img width="100%" src="./assets/finance-bot-banner.png" />
+
 ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square) ![telegram](https://img.shields.io/badge/platform-telegram-2CA5E0?style=flat-square)
 
 Personal finance assistant on Telegram. Users log and manage money by chatting in natural language, including Cape Verdean Portuguese.
