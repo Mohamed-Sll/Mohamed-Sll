@@ -147,7 +147,7 @@ Institutional website for a public technical school in Cape Verde, with a CMS so
 
 ## 📊 Activity
 
-<div align="center"><img width="100%" src="./assets/metrics.svg" /></div>
+<div align="center"><img height="170" src="https://streak-stats.demolab.com?user=Mohamed-Sll&theme=transparent&hide_border=true&ring=F4F4F1&fire=F4F4F1&currStreakLabel=F4F4F1&sideLabels=A1A1AA&dates=76767F" /></div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
 
