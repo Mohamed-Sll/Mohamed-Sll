@@ -92,6 +92,9 @@ Personal finance assistant on Telegram. Users log and manage money by chatting i
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
 
 ### School Website + CMS
+
+<img width="100%" src="./assets/etjv-banner.png" />
+
 ![live](https://img.shields.io/badge/status-live-2EA44F?style=flat-square) ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square)
 
 Institutional website for a public technical school in Cape Verde, with a CMS so staff can publish without a developer.
