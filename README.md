@@ -25,7 +25,9 @@
 * I care about clean architecture, tests, and systems that keep working after launch.
 
 > **📍 Based in** Cape Verde 🇨🇻
+
 > **🎯 Focus** Backend engineering, fintech
+
 > **💼 Open to** Backend roles in Cape Verde and Europe (remote or relocation)
 
 <br clear="right"/>
