@@ -118,7 +118,7 @@ Institutional website for a public technical school in Cape Verde, with a CMS so
 <img height="44" src="./assets/icons/drizzle.svg" />
 
 **Bots**<br>
-<img height="44" src="https://skillicons.dev/icons?i=discordjs,discord" />
+<img height="44" src="https://skillicons.dev/icons?i=discord" />
 <img height="44" src="./assets/icons/telegram.svg" />
 <img height="44" src="./assets/icons/whatsapp.svg" />
 
