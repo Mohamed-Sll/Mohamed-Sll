@@ -1,53 +1,158 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Mohamed Sillah — Full-Stack Developer" width="100%" />
 
-  <p><strong>Full-Stack Developer · Mindelo, Cape Verde</strong></p>
-  <p>I build practical software for real workflows — from data models and APIs to clear, usable interfaces.</p>
-  <p>
-    <a href="https://www.linkedin.com/in/mohamed-sllh">LinkedIn</a> ·
-    <a href="mailto:mohamedsillahhh@gmail.com">Email</a> ·
-    <a href="https://github.com/Mohamed-Sll?tab=repositories">All repositories</a>
-  </p>
+<img width="100%" src="./assets/profile-banner.png" />
+
+*Building payment-adjacent systems for real users in Cape Verde and the PALOP countries.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sllh)
+[![Email](https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsillahhh@gmail.com)
+![Open to work](https://img.shields.io/badge/Open_to_Full--Stack_roles-2EA44F?style=for-the-badge)
+
 </div>
 
-## About me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
 
-I’m a full-stack developer who enjoys making products understandable, reliable, and useful. My work spans web applications, APIs, automation, and data-focused tools. I care about the details behind a feature: validation, permissions, persistence, testing, and how someone will run the project after cloning it.
+## 👋 About
 
-- **Based in:** Mindelo, São Vicente, Cape Verde
-- **Interested in:** Full-stack and backend-focused opportunities
-- **Currently exploring:** product engineering, financial workflows, and open-source software
+<img align="right" width="170" src="https://i.pinimg.com/736x/d4/10/ac/d410acd9734cb0715cfa969de285ba14.jpg" />
 
-## Selected projects
+* Full-Stack developer, backend-focused, who builds **end to end**, from database schema to deployment.
 
-### [HackHub](https://github.com/Mohamed-Sll/hackhub-platform)
-An open-source platform for discovering and organizing hackathons, events, teams, and participant workflows.
+* Most of what I ship handles **real money or real users**: wallets, payments review, finance tools and school platforms.
 
-- **Stack:** Next.js, TypeScript, React, FastAPI, Python, SQLite
-- **Preview:** [Open the frontend preview](https://frontend-40uspsv0q-mohamedsillahhh-clouds-projects.vercel.app) — this is a frontend preview; the API and database are not hosted there.
+* I care about clean architecture, tests, and systems that keep working after launch.
 
-### [DevFlow](https://github.com/Mohamed-Sll/DevFlow)
-A local-first workspace for freelancers to manage projects, finances, tracked hours, and investments. The web version stores data in the browser with IndexedDB and works without an account or cloud sync.
+    **📍 Based in** Mindelo, São Vicente · Cape Verde 🇨🇻
 
-- **Stack:** React, TypeScript, Vite, IndexedDB, Dexie
-- **Focus:** private local data, offline-friendly workflows, and exportable records
+    **🎯 Focus** Full-Stack, backend-heavy · fintech
 
-### [Comparador de Remessas](https://github.com/Mohamed-Sll/Comparador-de-remessas)
-A tool for comparing money-transfer options to Cape Verde, with the received amount as the key comparison.
+    **💼 Open to** Full-Stack roles in Cape Verde and Europe (remote or relocation)
 
-- **Stack:** React, TypeScript, Vite, FastAPI, Python, PostgreSQL
-- **Focus:** clear comparisons and practical financial information
+<br clear="right"/>
 
-### [Pomodoro Focus Bot](https://github.com/Mohamed-Sll/Bot-de-foco-Pomodoro-streaks-)
-A Telegram bot for focused work sessions, breaks, streaks, and productivity tracking.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
 
-- **Stack:** Python, FastAPI, Telegram Bot API, SQLite / PostgreSQL
+## 🚀 Featured work
 
-## Technologies
+### Clutch Store 🪙
 
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Frontend:** React, Next.js, Vite, Tailwind CSS  
-**Backend & data:** FastAPI, Flask, Node.js, PostgreSQL, SQLite, IndexedDB  
-**Quality & delivery:** pytest, Vitest, GitHub Actions, Docker, Vercel, Render
+<img width="100%" src="./assets/clutch-store-banner.png" />
 
-I’m always learning and improving these projects in public. If something catches your eye, the repository README has setup instructions, current limitations, and the most accurate details about that project.
+![live](https://img.shields.io/badge/status-live-2EA44F?style=flat-square) ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square) ![discord](https://img.shields.io/badge/platform-discord_+_web-5865F2?style=flat-square)
+
+A Discord store for the PALOP countries with a web dashboard to run it: catalog, orders, payment confirmation and automatic delivery.
+
+**What it does**
+- Bank-transfer payments confirmed by staff, then **automatic delivery of single-use keys** per buyer
+- Web dashboard with **admin and staff roles**, and a public storefront
+- Bot and dashboard share one PostgreSQL database and talk through an internal API
+
+**Stack** &nbsp;`Python` `discord.py` `React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+
+[![Live](https://img.shields.io/badge/Live_site-F4F4F1?style=flat-square&logo=vercel&logoColor=black)](https://clutch-store.vercel.app)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
+
+### Clutch Control 🎚️
+
+<img width="100%" src="./assets/clutch-control-banner.png" />
+
+![production](https://img.shields.io/badge/status-in_production-2EA44F?style=flat-square) ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square) ![discord](https://img.shields.io/badge/platform-discord_+_web-5865F2?style=flat-square)
+
+Wallet and matchmaking platform for esports organizations. Players hold a balance, join paid match queues, and staff review deposits and withdrawals.
+
+**What it does**
+- **Player wallets and ledger**: deposits, withdrawals, transfers, entry fees and payouts
+- **Multi-tenant**: each organization has its own currency, payment methods and rules
+- Discord bot and admin panel on a shared database
+- Cut database egress by caching settings and plan data with event-based invalidation
+
+**Stack** &nbsp;`TypeScript` `Node.js` `discord.js` `Drizzle` `React` `Supabase` `PostgreSQL` `Railway`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
+
+### Finance Bot 💸
+
+<img width="100%" src="./assets/finance-bot-banner.png" />
+
+![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square) ![telegram](https://img.shields.io/badge/platform-telegram-2CA5E0?style=flat-square)
+
+Personal finance assistant on Telegram. Users log and manage money by chatting in natural language, including Cape Verdean Portuguese.
+
+**What it does**
+- **Multi-provider AI routing** (Gemini, Groq, OpenRouter) with fallback and a circuit breaker
+- **Regex fallback engine** so the bot keeps working when every provider is rate limited
+- Budgets, savings goals, installments, split expenses, recurring transactions and receipt OCR
+- Migrated to PostgreSQL, with a security hardening pass and a pytest suite
+
+**Stack** &nbsp;`Python 3.12` `python-telegram-bot` `PostgreSQL` `pytest`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
+
+### School Website + CMS 📚
+
+<img width="100%" src="./assets/etjv-banner.png" />
+
+![live](https://img.shields.io/badge/status-live-2EA44F?style=flat-square) ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square)
+
+Institutional website for a public technical school in Cape Verde, with a CMS so staff can publish without a developer.
+
+**Stack** &nbsp;`Python` `Flask` `PostgreSQL` `Render`
+
+[![Live](https://img.shields.io/badge/Live_site-F4F4F1?style=flat-square&logo=render&logoColor=black)](https://etjv.onrender.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
+
+## 🛠️ Stack
+
+<img align="right" width="360" src="https://i.pinimg.com/736x/03/10/5e/03105eafcc7594bb3bbf8640d188038b.jpg" />
+
+**Languages**<br>
+<img height="44" src="https://skillicons.dev/icons?i=py,ts,js" />
+
+**Backend & data**<br>
+<img height="44" src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,sqlite,redis,prisma" />
+<img height="44" src="./assets/icons/sqlalchemy.svg" />
+<img height="44" src="./assets/icons/drizzle.svg" />
+
+**Bots**<br>
+<img height="44" src="https://skillicons.dev/icons?i=discord" />
+<img height="44" src="./assets/icons/telegram.svg" />
+<img height="44" src="./assets/icons/whatsapp.svg" />
+
+**Frontend & desktop**<br>
+<img height="44" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,qt" />
+<img height="44" src="./assets/icons/zod.svg" />
+
+**Infra**<br>
+<img height="44" src="https://skillicons.dev/icons?i=supabase,docker,githubactions,vercel,linux,git" />
+<img height="44" src="./assets/icons/railway.svg" />
+<img height="44" src="./assets/icons/render.svg" />
+
+**Testing & quality**<br>
+<img height="44" src="https://skillicons.dev/icons?i=vitest" />
+<img height="44" src="./assets/icons/pytest.svg" />
+<img height="44" src="./assets/icons/biome.svg" />
+
+**Currently learning**<br>
+<img height="44" src="https://skillicons.dev/icons?i=kotlin,java,gradle" /> &nbsp;
+
+<br clear="right"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
+
+## 📊 Activity
+
+<div align="center"><img height="170" src="https://streak-stats.demolab.com?user=Mohamed-Sll&theme=transparent&hide_border=true&ring=F4F4F1&fire=F4F4F1&currStreakLabel=F4F4F1&sideLabels=A1A1AA&dates=76767F" /></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F4F4F1,100:1F1F23&height=6" />
+
+<div align="center">
+
+**Open to Full-Stack opportunities in Cape Verde and Europe.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sllh)
+
+</div>
