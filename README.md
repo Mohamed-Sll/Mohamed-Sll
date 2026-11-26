@@ -91,6 +91,8 @@ Personal finance assistant on Telegram. Users log and manage money by chatting i
 
 ### Setly — Gym Management
 
+<img width="100%" src="./assets/setly-banner.png" alt="Setly — gestão de ginásios" />
+
 ![preview](https://img.shields.io/badge/status-live_preview-2EA44F?style=flat-square) ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square)
 
 A gym management portfolio project covering members, plans, subscriptions, payments, check-ins, class schedules and role-based staff access.
