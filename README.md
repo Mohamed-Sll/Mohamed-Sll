@@ -89,6 +89,20 @@ Personal finance assistant on Telegram. Users log and manage money by chatting i
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
 
+### Setly — Gym Management
+
+![preview](https://img.shields.io/badge/status-live_preview-2EA44F?style=flat-square) ![private](https://img.shields.io/badge/repo-private-6E7681?style=flat-square)
+
+A gym management portfolio project covering members, plans, subscriptions, payments, check-ins, class schedules and role-based staff access.
+
+**Stack** &nbsp;`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Docker`
+
+[![Interactive preview](https://img.shields.io/badge/Interactive_preview-F4F4F1?style=flat-square&logo=vercel&logoColor=black)](https://preview-two-beryl.vercel.app)
+
+*The source repository is private. This static preview uses fictional sample data and is not connected to a live database.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2" />
+
 ### School Website + CMS 📚
 
 <img width="100%" src="./assets/etjv-banner.png" />
